@@ -13,8 +13,9 @@ app.use(cookieParser());
 
 const cron = require("node-cron");
 let ALLOWED_ORIGINS = [
-  "https://fintch.io",
-  "https://www.fintch.io",
+  "https://fintcx.vercel.app",
+  "https://fintcx.com",
+  "https://www.fintcx.com",
   "http://localhost:3000",
   "http://localhost:3001",
   "http://localhost:3002",
