@@ -248,7 +248,7 @@ ${title}
 Ticket Description:
 ${description}`;
 
-  await sendEmail("admin@fintch.io", newTitle, newDescription);
+  await sendEmail("support@fintcx.com", newTitle, newDescription);
 
   return res.status(200).send({
     success: true,

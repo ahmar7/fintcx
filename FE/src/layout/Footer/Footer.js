@@ -192,9 +192,9 @@ const Footer = () => {
                         </a>
                       </li>
                       <li className="elementor-icon-list-item">
-                        <a href="mailto:%20admin@fintch.io">
+                        <a href="mailto:%20support@fintcx.com">
                           <span className="elementor-icon-list-text">
-                            admin@fintch.io
+                            support@fintcx.com
                           </span>
                         </a>
                       </li>
